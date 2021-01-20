@@ -1,0 +1,10 @@
+C:\Users\sheeprustler\source\repos\SalesArray\SalesArray\bin\Debug\SalesArray.exe.config
+C:\Users\sheeprustler\source\repos\SalesArray\SalesArray\bin\Debug\SalesArray.exe
+C:\Users\sheeprustler\source\repos\SalesArray\SalesArray\bin\Debug\SalesArray.pdb
+C:\Users\sheeprustler\source\repos\SalesArray\SalesArray\obj\Debug\SalesArray.csprojAssemblyReference.cache
+C:\Users\sheeprustler\source\repos\SalesArray\SalesArray\obj\Debug\SalesArray.FrmStoreSales.resources
+C:\Users\sheeprustler\source\repos\SalesArray\SalesArray\obj\Debug\SalesArray.Properties.Resources.resources
+C:\Users\sheeprustler\source\repos\SalesArray\SalesArray\obj\Debug\SalesArray.csproj.GenerateResource.cache
+C:\Users\sheeprustler\source\repos\SalesArray\SalesArray\obj\Debug\SalesArray.csproj.CoreCompileInputs.cache
+C:\Users\sheeprustler\source\repos\SalesArray\SalesArray\obj\Debug\SalesArray.exe
+C:\Users\sheeprustler\source\repos\SalesArray\SalesArray\obj\Debug\SalesArray.pdb
